@@ -5,7 +5,7 @@
 
         <a href="/"><span class="element brand">
             <img class="place-left" src="images/logo32.png" style="height: 20px"/>
-            Metro UI CSS <small><?= include("version.phtml")?></small>
+            Metro UI CSS <small><?php echo include("version.phtml")?></small>
         </span></a>
 
         <div class="divider"></div>
